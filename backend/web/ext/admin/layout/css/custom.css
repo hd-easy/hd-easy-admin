@@ -1,0 +1,38 @@
+.mytitle
+{
+    font-size:22px;
+    color: #26a69a;
+}
+
+.mycreate_btn
+{
+    margin-left: 48%;
+}
+
+.wrap
+{
+    margin-left:43%;
+}
+
+.my-form-control {
+    background-color: #fff;
+    border: none;
+    border-radius: 4px;
+    box-shadow: none;
+    color: #333;
+    font-size: 23px;
+    font-weight: normal;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+}
+
+.my-line-height
+{
+    line-height:2px
+}
+
+.my_display_left
+{
+    padding-left: 0px;
+}
+
+.clearfix{clear:both;}
